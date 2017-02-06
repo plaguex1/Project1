@@ -1,0 +1,89 @@
+
+/* 
+    Created on : Jan 28, 2017, 2:47:47 PM
+    Author     : LDClaudius
+*/
+html
+{
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+    
+}
+header{
+    width: 100%;
+    height: 15%;
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+    
+   
+}
+#header-h1{
+    color: white; 
+    vertical-align: middle;
+    padding: 70px 0;
+    text-align: center;
+    margin: 0px;
+  
+}
+nav{
+    color: white;
+    border:4px solid lightblue;
+    width: 100%;
+    height: 10%;
+    background-color: teal;
+    
+}
+section{
+    width: 100%;
+    height:65%;
+    background-color: white;
+}    
+
+footer{
+    width: 100%;
+    height: 10%;
+    background-color: black;
+    
+}
+div{
+   width: 40%;
+   text-align: right;
+   float: left;
+}
+
+label{
+    color: black;
+ 
+}
+
+.createAccount{
+    background-color: black;
+    color: white;
+}
+
+#footer-h1{
+    color: white; 
+    vertical-align: middle;
+    padding: 10px 0;
+    text-align: center;
+    margin: 0px;
+}
+
+#homeDiv{
+    width: 25%;  
+}
+
+#homeDiv2{
+    width: 75%;  
+    text-align: left;
+}
